@@ -1,12 +1,18 @@
-### Hi there 👋
+# :black_nib:**JuanArchis**:black_nib:
 
-<!--
-**JuanArchis/JuanArchis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  
+<a name="top" href="#"> <img src="https://64.media.tumblr.com/54a945edd2641e20859d6f6537cd7423/tumblr_pwa4bogz4N1qze3hdo2_r1_500.gifv" alt="mf-dots" height="40%" width="60%"/> </a>
 
+#
 Here are some ideas to get you started:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+<p align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanArchis&show_icons=true&theme=dark)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiJuanArchisanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanArchis&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ #
